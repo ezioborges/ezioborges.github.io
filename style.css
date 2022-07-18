@@ -13,7 +13,7 @@ p {
     color: #fff; 
 }
 
-ul li:nth-child(odd) {
+ul.odd li:nth-child(odd) {
     background-color: rgba(125, 66, 66, 0.943);
 }
 
